@@ -1,0 +1,13 @@
+/* cfbaf0 */
+/* top bar stylings */
+.top-bar h3{
+    color: #90e0ef;
+    font-weight: 300;
+}
+.top-bar a{
+    color: #a49f96;
+}
+.top-bar a:hover{
+    color: #90e0ef;
+}
+/* top bar stylings */
