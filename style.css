@@ -23,3 +23,17 @@
     background: linear-gradient(90deg, rgba(144,224,239,1) 0%, rgba(77,129,139,0.9416141456582633) 37%, rgba(144,224,239,0.76234243697479) 50%, rgba(61,113,122,0.8575805322128851) 62%, rgba(144,224,239,1) 100%);  
 }
 /* slider images */
+/* program stylings */
+.program  img{
+    height: 300px;
+}
+.program .card:hover img{
+    opacity: .4;
+
+}
+.program .card:hover .card-body{
+    background-color: #90e0ef;
+    color: #ffffff;
+    transition: .7s ease-in-out;
+}
+/* program stylings */
